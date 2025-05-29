@@ -1,4 +1,4 @@
-    * Repository creation and deletion
+    * Repository create and delete
     * Branch creation and deletion
     * Tag creation and deletion
     * Add files and commit changes
@@ -10,3 +10,5 @@ Advanced Git Commands:
   * git push
   * git fetch
   * git checkout
+
+Work on advanced commands
